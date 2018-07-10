@@ -1,3 +1,4 @@
 server:
   name: demonic-test
   message: 테스트 서버입니다
+  message2: 
